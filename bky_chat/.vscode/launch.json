@@ -1,0 +1,28 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bky_chat_app",
+            "cwd": "bky_chat_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bky_chat_app (profile mode)",
+            "cwd": "bky_chat_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bky_chat_app (release mode)",
+            "cwd": "bky_chat_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
