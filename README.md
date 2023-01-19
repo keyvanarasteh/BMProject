@@ -8,10 +8,9 @@ Melih Doğan 211216042
 [Supervisor: Keyvan Arasteh] (https://github.com/keyvanarasteh/)
 
 # Screenshots:
-
-<img width="1440" alt="bkychat6" src="https://user-images.githubusercontent.com/97699666/213388692-9672f137-1b6e-4f15-b387-169543960984.png">
-![bkychat5](https://user-images.githubusercontent.com/97699666/213388346-c1237f08-6a41-4016-aaef-2118e2e84996.jpeg)
-![bkychat4](https://user-images.githubusercontent.com/97699666/213388353-53b93d74-487d-42a0-b9f4-2e3fecf0b47c.jpeg)
-<img width="1440" alt="bkychat3" src="https://user-images.githubusercontent.com/97699666/213388358-09d4732a-2aea-4e16-b505-7bcb45dc009b.png">
-![bkychat2](https://user-images.githubusercontent.com/97699666/213388361-463a5440-4758-46a0-8c25-37b247c64b67.jpeg)
-![bky_chat1](https://user-images.githubusercontent.com/97699666/213388367-325cca5a-1580-4257-b2ea-81fdd3520516.jpeg)
+<img width="1440" alt="bkychat6" src="https://user-images.githubusercontent.com/97699666/213388820-5ecf8ac2-ddce-4b3b-99c6-743832374256.png">
+![bkychat5](https://user-images.githubusercontent.com/97699666/213388832-c6bd3da0-1323-4dd3-918c-43fcd9b5a16d.jpeg)
+![bkychat4](https://user-images.githubusercontent.com/97699666/213388836-2d650090-9bc7-4e40-ad16-aef0e3106bef.jpeg)
+<img width="1440" alt="bkychat3" src="https://user-images.githubusercontent.com/97699666/213388841-5f0a7e3b-0b2b-4976-85c0-0de0f66fb070.png">
+![bkychat2](https://user-images.githubusercontent.com/97699666/213388845-ba83633b-1ee1-4b2b-9e49-91c4987cf4c1.jpeg)
+![bky_chat1](https://user-images.githubusercontent.com/97699666/213388847-8721d9c8-7038-4960-9707-77eba558ecb8.jpeg)
